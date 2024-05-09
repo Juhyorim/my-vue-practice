@@ -1,6 +1,6 @@
 # vue-hello
 
-This template should help get you started developing with Vue 3 in Vite.
+axios, vue interceptor를 공부하였습니다.
 
 ## Recommended IDE Setup
 
